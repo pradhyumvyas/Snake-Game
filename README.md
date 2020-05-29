@@ -1,3 +1,3 @@
 # Snake-Game
 
-Snake Game in Python3 
+Snake Game in Python Programming Language
