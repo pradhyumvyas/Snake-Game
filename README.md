@@ -6,4 +6,13 @@ Snake Game in Python Programming Language
 
 Go to Directory Where this file are stored then run following Command
 
-``` python Snake.py ```
+```bash python Snake.py ```
+
+## Some ScreenShots of the Game
+1.
+![Screenshot](Snake.png)
+
+2.
+![Screenshot](Snake2.png)
+
+
